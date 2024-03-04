@@ -15,7 +15,7 @@ JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind, SASS, Redux, Vite, 
 <li>GraphQl</li>
 <li>SQL, Prisma ORM</li>
 
-# Мои цели:
+### Мои цели:
 <li>Работать в дружной команде разработчиков;</li>
 <li>Работать над интересными проектами;</li>
 <li>Внести вклад в успех компании.</li>
