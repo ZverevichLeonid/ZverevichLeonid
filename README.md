@@ -11,11 +11,11 @@
 JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind, SASS, Redux, Vite, Gitlab.
 <br>
 <br>
-<ol>В процессе обучения:</ol>
+# <ol>В процессе обучения:</ol>
 <li>GraphQl</li>
 <li>SQL, Prisma ORM</li>
 
-<ol>Мои цели:</ol>
+# Мои цели:
 <li>Работать в дружной команде разработчиков;</li>
 <li>Работать над интересными проектами;</li>
 <li>Внести вклад в успех компании.</li>
