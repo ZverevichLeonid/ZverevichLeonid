@@ -1,4 +1,4 @@
-### Hi there 👋
+### Меня зовут Леонид, я Frontend developer👋
 
 <!--
 **ZverevichLeonid/ZverevichLeonid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
