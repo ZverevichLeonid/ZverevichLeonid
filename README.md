@@ -4,18 +4,8 @@
 <br>
 Практикуюсь в программировании, создаю pet-проекты, изучаю различные технологии и методологии.
 На данный момент использую следущюий технологический стек:
--JavaScript 
--TypeScript 
--React
--Next.js 
--GraphQL 
--HTML5  
--CSS3
--Tailwind
--SCSS 
--Redux
--Vite
--Gitlab
+JavaScript, TypeScript, React, Next.js, GraphQL, HTML, CSS, Tailwind, SASS, Redux, Vite, Gitlab.
+
 
 <!--
 **ZverevichLeonid/ZverevichLeonid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
