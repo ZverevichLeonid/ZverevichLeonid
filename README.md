@@ -11,7 +11,7 @@
 JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind, SASS, Redux, Vite, Gitlab.
 <br>
 <br>
-# <ol>В процессе обучения:</ol>
+# В процессе обучения:
 <li>GraphQl</li>
 <li>SQL, Prisma ORM</li>
 
