@@ -7,11 +7,12 @@
 Практикуюсь в программировании, создаю pet-проекты, изучаю различные технологии и методологии.
 <br>
 На данный момент использую следущюий технологический стек:
-<li>JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind, SASS, Redux, Vite, Gitlab.</li>
+#### JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind, SASS, Redux, Vite, Gitlab.
 <br>
 <br>
 Ссылка на мой последний проект: <a href="https://github.com/ZverevichLeonid/candleaf-nextjs">Candleaf</a>
 <br>
+
 ### В процессе обучения:
 <li>GraphQl</li>
 <li>SQL, Prisma ORM</li>
